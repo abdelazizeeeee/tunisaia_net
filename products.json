@@ -1,0 +1,146 @@
+[
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_123\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_396\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_206\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_289\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_124\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_397\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_207\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_290\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_125\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_398\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_208\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_291\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_126\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_399\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_209\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_292\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_127\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_400\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_210\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_293\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_128\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_401\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_211\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_294\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_129\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_402\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_212\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_295\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_130\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_403\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_213\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_296\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_131\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_404\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_214\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_297\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_132\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_405\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_215\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_298\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_133\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_406\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_216\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_299\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_134\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_407\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_217\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_300\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_135\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_408\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_218\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_301\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_136\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_409\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_219\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_302\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_137\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_410\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_220\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_303\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_138\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_411\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_221\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_304\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_139\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_412\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_222\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_305\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_140\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_413\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_223\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_306\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_141\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_414\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_224\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_307\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_142\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_415\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_225\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_308\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_143\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_416\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_226\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_309\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_144\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_417\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_227\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_310\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_145\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_418\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_228\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_311\")>"
+    },
+    {
+        "title": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"C9A9E71B50B9709C535CDB1E1EA2177B_element_146\")>",
+        "price": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"4A7F5137C59381C124309266C87E4517_element_419\")>",
+        "reference": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"E28221576E8E8285ABFA29CFC73B6182_element_229\")>",
+        "disponabilite": "<selenium.webdriver.remote.webelement.WebElement (session=\"f45201bc158f6f418a6eade5beb53a91\", element=\"13C91E6413AD35F8D108803423C94217_element_312\")>"
+    }
+]
